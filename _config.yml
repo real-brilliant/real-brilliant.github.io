@@ -1,1 +1,11 @@
 theme: jekyll-theme-architect
+
+# Site settings
+title: Real-Brilliant
+SEOTitle: JefferySun Blog
+# header-img: img/home-bg-hill.jpg
+email: real.szf@gmail.com
+description: "welcome"
+keyword: "NLP, DL"
+url: "https://real-brilliant.github.io"
+#baseurl: ""
